@@ -1,2 +1,2 @@
 # covid-19-unemployment
-Exploring relationships between COVID-19 and unemployment in the U.S.
+Predictive modeling for relationships between the COVID-19 pandemic and unemployment in the U.S.
